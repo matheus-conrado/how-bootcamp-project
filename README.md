@@ -1,10 +1,10 @@
-# Projeto de ingestão e análise de dados de vôos
+# Projeto de ingestão de dados indicadores socioeconômicos dos países
 
 🚧 Em Construção 🚧
 
 ## Proposta
 
-Criar e Estruturar um Data Lake que conterá os dados coletados da API do IBGE referente as informações socieconomicas (Econimicas, Sociais, População, Redes, etc) dos paises contidos no ambiente.
+Criar e Estruturar um Data Lake que conterá os dados coletados da API do IBGE referente aos indicadores socioeconômicos dos países (Econimicas, Sociais, População, Redes, etc)
 
 ## Motivação
 
