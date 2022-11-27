@@ -31,3 +31,4 @@ Dados de indicadores socieconomicos pelo IBGE: Informações sobre os 193 paíse
 - Airflow para orquestração de todos os jobs
 
 ## Arquitetura
+![How_project](https://user-images.githubusercontent.com/65983460/204163326-771312db-4136-4f35-86a0-9d191d818cc0.jpg)
